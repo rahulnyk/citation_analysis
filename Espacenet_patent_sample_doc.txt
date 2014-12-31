@@ -1,0 +1,211 @@
+{
+	"_id" : ObjectId("54852ab8d8d80b0f210abbcd"),
+	"np_citations" : [
+		{
+			"cited_phase" : "international-search-report",
+			"cit_id" : "na",
+			"catagory" : {
+				"someKey" : "A"
+			},
+			"cit_office" : "na",
+			"text" : {
+				"someKey" : "GADA, R. P. ET AL.: 'Potential of inner cell mass outgrowth\n        and amino a( turnover as markers of quality in the in vitro\n        fertilization laboratory' FERTILITY AND STERILITY vol. 98,\n        no. 4, 2012, pages 863 - 869"
+			}
+		},
+		{
+			"cited_phase" : "international-search-report",
+			"cit_id" : "na",
+			"catagory" : {
+				"someKey" : "A"
+			},
+			"cit_office" : "na",
+			"text" : {
+				"someKey" : "JONES, G. M. ET AL.: 'Novel strategy with potential to\n        identify developmentally competent IVF blastocysts' HUMAN\n        REPRODUCTION vol. 23, no. 8, 2008, pages 1748 - 1759"
+			}
+		},
+		{
+			"cited_phase" : "international-search-report",
+			"cit_id" : "na",
+			"catagory" : {
+				"someKey" : "A"
+			},
+			"cit_office" : "na",
+			"text" : {
+				"someKey" : "BACZKOWSKI, T. ET AL.: 'Methods of embryo scoring in in\n        vitro fertilization' REPRODUCTIVE BIOLOGY vol. 4, no. 1,\n        2004, pages 5 - 22"
+			}
+		},
+		{
+			"cited_phase" : "international-search-report",
+			"cit_id" : "na",
+			"catagory" : {
+				"someKey" : "A"
+			},
+			"cit_office" : "na",
+			"text" : {
+				"someKey" : "PLACHTA, N. ET AL.: 'Oct4 kinetics predict cell lineage\n        patterning in the early mammalian embryo' NATURE CELL\n        BIOLOGY vol. 13, no. 2, 2011, pages 117 - 123"
+			}
+		}
+	],
+	"abstract" : "",
+	"ipc_classes" : [
+		"G01N33/53AI",
+		"A01K67/027AI",
+		"C12Q1/02AI"
+	],
+	"titles" : [
+		{
+			"language" : "fr",
+			"title" : "PROCÉDÉ ET ESSAI MOLÉCULAIRE DE CONTRÔLE QUALITÉ SUR UN EMBRYON DE SOURIS POUR UNE UTILISATION AVEC LA TECHNOLOGIE DE LA FÉCONDATION IN VITRO"
+		},
+		{
+			"language" : "en",
+			"title" : "A METHOD AND QUALITY CONTROL MOLECULAR BASED MOUSE EMBRYO ASSAY FOR USE WITH IN VITRO FERTILIZATION TECHNOLOGY"
+		}
+	],
+	"title" : "A METHOD AND QUALITY CONTROL MOLECULAR BASED MOUSE EMBRYO ASSAY FOR USE WITH IN VITRO FERTILIZATION TECHNOLOGY",
+	"pub_country" : "WO",
+	"classifications_ipcr" : {
+		"classification-ipcr" : [
+			{
+				"text" : {
+					"someKey" : "C12Q   1/    02            A I"
+				},
+				"@sequence" : "1"
+			},
+			{
+				"text" : {
+					"someKey" : "A01K  67/   027            A I"
+				},
+				"@sequence" : "2"
+			},
+			{
+				"text" : {
+					"someKey" : "G01N  33/    53            A I"
+				},
+				"@sequence" : "3"
+			}
+		]
+	},
+	"ipc_classifications" : [
+		{
+			"class" : "C12Q1/02AI"
+		},
+		{
+			"class" : "A01K67/027AI"
+		},
+		{
+			"class" : "G01N33/53AI"
+		}
+	],
+	"p_citations" : [
+		{
+			"kind" : "A1",
+			"cit_office" : "KR",
+			"country" : "EP",
+			"cit_id" : "na",
+			"patent_id" : "1847595",
+			"cited_phase" : "international-search-report",
+			"catagory" : {
+				"someKey" : "A"
+			}
+		},
+		{
+			"kind" : "A1",
+			"cit_office" : "KR",
+			"country" : "WO",
+			"cit_id" : "na",
+			"patent_id" : "2011025736",
+			"cited_phase" : "international-search-report",
+			"catagory" : {
+				"someKey" : "A"
+			}
+		}
+	],
+	"inventors" : [
+		{
+			"name" : "NI HSIAO-TZU [US]"
+		},
+		{
+			"name" : "ES-SLAMI SAMIRA [US]"
+		},
+		{
+			"name" : "GILBERT REBECCA SUSAN [US]"
+		},
+		{
+			"name" : "NI, HSIAO-TZU,"
+		},
+		{
+			"name" : "ES-SLAMI, SAMIRA,"
+		},
+		{
+			"name" : "GILBERT, REBECCA SUSAN"
+		}
+	],
+	"publication_references" : [
+		{
+			"date" : 20140925,
+			"country" : "WO",
+			"kind" : "A1",
+			"patent_id" : "2014153173"
+		},
+		{
+			"date" : 20140925,
+			"country" : "na",
+			"kind" : "na",
+			"patent_id" : "WO2014153173"
+		}
+	],
+	"pub_year" : "2014",
+	"pub_date" : "20140925",
+	"applicants" : [
+		{
+			"name" : "IRVINE SCIENT SALES COMPANY INC [US]"
+		},
+		{
+			"name" : "NI HSIAO-TZU [US]"
+		},
+		{
+			"name" : "ES-SLAMI SAMIRA [US]"
+		},
+		{
+			"name" : "GILBERT REBECCA SUSAN [US]"
+		},
+		{
+			"name" : "IRVINE SCIENTIFIC SALES COMPANY, INC,"
+		},
+		{
+			"name" : "NI, HSIAO-TZU,"
+		},
+		{
+			"name" : "ES-SLAMI, SAMIRA,"
+		},
+		{
+			"name" : "GILBERT, REBECCA SUSAN"
+		}
+	],
+	"kind" : "A1",
+	"family_id" : "51581438",
+	"country" : "WO",
+	"patent_id" : "2014153173",
+	"pub_day" : "25",
+	"pub_month" : "09",
+	"application_references" : [
+		{
+			"date" : "na",
+			"country" : "US",
+			"patent_id" : "2014029410"
+		},
+		{
+			"date" : "20140314",
+			"country" : "na",
+			"patent_id" : "WO2014US29410"
+		},
+		{
+			"date" : "na",
+			"country" : "na",
+			"patent_id" : "US2014/029410"
+		}
+	],
+	"patent_id_country" : "WO2014153173"
+}
+

@@ -1,0 +1,555 @@
+{
+	"_id" : "548528aad8d80b0d77d4b11f",
+	"abstract" : "",
+	"applicants" : [
+		{
+			"name" : "AUXOGYN INC [US]"
+		},
+		{
+			"name" : "AUXOGYN, INC"
+		}
+	],
+	"application_references" : [
+		{
+			"date" : "na",
+			"country" : "US",
+			"patent_id" : "2014019615"
+		},
+		{
+			"date" : "20140228",
+			"country" : "na",
+			"patent_id" : "WO2014US19615"
+		},
+		{
+			"date" : "na",
+			"country" : "na",
+			"patent_id" : "US2014/019615"
+		}
+	],
+	"classifications_ipcr" : {
+		"classification-ipcr" : [
+			{
+				"text" : {
+					"someKey" : "G01N  33/    50            A I"
+				},
+				"@sequence" : "1"
+			},
+			{
+				"text" : {
+					"someKey" : "G01N  33/    48            A I"
+				},
+				"@sequence" : "2"
+			},
+			{
+				"text" : {
+					"someKey" : "G06K   9/    00            A I"
+				},
+				"@sequence" : "3"
+			}
+		]
+	},
+	"countries" : [
+		"WO"
+	],
+	"country" : "WO",
+	"doc_country" : "WO",
+	"family_id" : "51420965",
+	"flag" : "applicants",
+	"inventors" : [
+		{
+			"name" : "WANG YU [US]"
+		},
+		{
+			"name" : "MOUSSAVI FARSHID [US]"
+		},
+		{
+			"name" : "LORENZEN PETER [US]"
+		},
+		{
+			"name" : "CHIAN MARTIN [US]"
+		},
+		{
+			"name" : "GOULD STEPHEN [US]"
+		},
+		{
+			"name" : "WANG, YU,"
+		},
+		{
+			"name" : "MOUSSAVI, FARSHID,"
+		},
+		{
+			"name" : "LORENZEN, PETER,"
+		},
+		{
+			"name" : "CHIAN, MARTIN,"
+		},
+		{
+			"name" : "GOULD, STEPHEN"
+		}
+	],
+	"ipc_classes" : [
+		"G06K9/00AI",
+		"G01N33/50AI",
+		"G01N33/48AI"
+	],
+	"ipc_classifications" : [
+		{
+			"class" : "G01N33/50AI"
+		},
+		{
+			"class" : "G01N33/48AI"
+		},
+		{
+			"class" : "G06K9/00AI"
+		}
+	],
+	"kind" : "A1",
+	"np_citations" : [
+		{
+			"catagory" : {
+				"someKey" : "Y"
+			},
+			"cit_id" : "na",
+			"cited_phase" : "international-search-report",
+			"cit_office" : "na",
+			"text" : {
+				"someKey" : "SCOTTI.: 'Automatic Morphological Analysis for Acute\n        Leukemia Identification in Peripheral Blood Microscope\n        Images.' CIMSA 2005 ? IEEE INTERNATIONAL CONFERENCE ON\n        COMPUTATIONAL INTELLIGENCE FOR MEASUREMENT SYSTEMS AND\n        APPLICATIONS July 2005, pages 96 - 101"
+			}
+		},
+		{
+			"catagory" : {
+				"someKey" : "Y"
+			},
+			"cit_id" : "na",
+			"cited_phase" : "international-search-report",
+			"cit_office" : "na",
+			"text" : {
+				"someKey" : "MENG ET AL.: 'Histology Image Classification Using\n        Supervised Classification and Multimodal Fusion.' ISM '10\n        PROCEEDINGS OF THE 2010 IEEE INTERNATIONAL SYMPOSIUM ON\n        MULTIMEDIA. 2010, pages 145 - 152"
+			}
+		},
+		{
+			"catagory" : {
+				"someKey" : "Y"
+			},
+			"cit_id" : "na",
+			"cited_phase" : "international-search-report",
+			"cit_office" : "na",
+			"text" : {
+				"someKey" : "MAGNUSSON ET AL.: 'A batch algorithm using iterative\n        application of the Viterbi algorithm to track cells and\n        construct cell lineages.' 2012 9TH IEEE INTERNATIONAL\n        SYMPOSIUM ON BIOMEDICAL IMAGING (ISBI, [Online] 05 May\n        2012, pages 382 - 385 Retrieved from the Internet:\n        <URL:hftp://ieeexplore.ieee.org/xpl/article\n        Details.jsp?reload=true&arnumber=6235564>"
+			}
+		}
+	],
+	"p_citations" : [
+		{
+			"kind" : "A1",
+			"country" : "WO",
+			"cit_office" : "US",
+			"patent_id" : "2009137866",
+			"cited_phase" : "international-search-report",
+			"cit_id" : "na",
+			"catagory" : {
+				"someKey" : "X"
+			}
+		},
+		{
+			"kind" : "A2",
+			"country" : "WO",
+			"cit_office" : "US",
+			"patent_id" : "2012047678",
+			"cited_phase" : "international-search-report",
+			"cit_id" : "na",
+			"catagory" : {
+				"someKey" : "Y"
+			}
+		}
+	],
+	"patent_id" : "2014134550",
+	"patent_id_country" : "WO2014134550",
+	"pub_date" : "20140904",
+	"pub_day" : "04",
+	"pub_month" : "09",
+	"publication_references" : [
+		{
+			"date" : 20140904,
+			"country" : "WO",
+			"kind" : "A1",
+			"patent_id" : "2014134550"
+		},
+		{
+			"date" : 20140904,
+			"country" : "na",
+			"kind" : "na",
+			"patent_id" : "WO2014134550"
+		}
+	],
+	"tag_v1" : [
+		{
+			"catagory" : "ivf"
+		}
+	],
+	"title" : "APPARATUS, METHOD, AND SYSTEM FOR IMAGE-BASED HUMAN EMBRYO CELL CLASSIFICATION",
+	"titles" : [
+		{
+			"language" : "fr",
+			"title" : "APPAREIL, MÉTHODE ET SYSTÈME POUR LA CLASSIFICATION DES CELLULES EMBRYONNAIRES HUMAINES D'APRÈS DES IMAGES"
+		},
+		{
+			"language" : "en",
+			"title" : "APPARATUS, METHOD, AND SYSTEM FOR IMAGE-BASED HUMAN EMBRYO CELL CLASSIFICATION"
+		}
+	],
+	"year" : [
+		"2014"
+	],
+	"year_str" : "2014"
+}
+{
+	"_id" : "548528aad8d80b0d77d4b124",
+	"abstract" : "",
+	"applicants" : [
+		{
+			"name" : "AUXOGYN INC [US]"
+		},
+		{
+			"name" : "AUXOGYN, INC"
+		}
+	],
+	"application_references" : [
+		{
+			"date" : "na",
+			"country" : "US",
+			"patent_id" : "2014014449"
+		},
+		{
+			"date" : "20140203",
+			"country" : "na",
+			"patent_id" : "WO2014US14449"
+		},
+		{
+			"date" : "na",
+			"country" : "na",
+			"patent_id" : "US2014/014449"
+		}
+	],
+	"classifications_ipcr" : {
+		"classification-ipcr" : [
+			{
+				"text" : {
+					"someKey" : "A61B  17/    43            A I"
+				},
+				"@sequence" : "1"
+			},
+			{
+				"text" : {
+					"someKey" : "A61D   7/    00            A I"
+				},
+				"@sequence" : "2"
+			}
+		]
+	},
+	"countries" : [
+		"WO"
+	],
+	"country" : "WO",
+	"doc_country" : "WO",
+	"family_id" : "51259531",
+	"flag" : "applicants",
+	"inventors" : [
+		{
+			"name" : "SHEN SHEHUA [US]"
+		},
+		{
+			"name" : "CHEN KIM ALICE A [US]"
+		},
+		{
+			"name" : "WIRKA KELLY ATHAYDE [US]"
+		},
+		{
+			"name" : "SURAJ VAISHALI [US]"
+		},
+		{
+			"name" : "TAN LEI [US]"
+		},
+		{
+			"name" : "SHEN, SHEHUA,"
+		},
+		{
+			"name" : "CHEN KIM, ALICE, A,"
+		},
+		{
+			"name" : "WIRKA, KELLY, ATHAYDE,"
+		},
+		{
+			"name" : "SURAJ, VAISHALI,"
+		},
+		{
+			"name" : "TAN, LEI"
+		}
+	],
+	"ipc_classes" : [
+		"A61D7/00AI",
+		"A61B17/43AI"
+	],
+	"ipc_classifications" : [
+		{
+			"class" : "A61B17/43AI"
+		},
+		{
+			"class" : "A61D7/00AI"
+		}
+	],
+	"kind" : "A1",
+	"np_citations" : [
+		{
+			"catagory" : {
+				"someKey" : "X"
+			},
+			"cit_id" : "na",
+			"cited_phase" : "international-search-report",
+			"cit_office" : "na",
+			"text" : {
+				"someKey" : "AZZARELLO ET AL.: 'The impact of pronuclei morphology and\n        dynamicity on live birth outcome after time-lapse culture.'\n        HUM REPROD. vol. 27, no. 9, 2012, pages 2649 - 57"
+			}
+		}
+	],
+	"p_citations" : [
+		{
+			"kind" : "B2",
+			"country" : "US",
+			"cit_office" : "US",
+			"patent_id" : "8323177",
+			"cited_phase" : "international-search-report",
+			"cit_id" : "na",
+			"catagory" : {
+				"someKey" : "Y"
+			}
+		},
+		{
+			"kind" : "B2",
+			"country" : "US",
+			"cit_office" : "US",
+			"patent_id" : "8337387",
+			"cited_phase" : "international-search-report",
+			"cit_id" : "na",
+			"catagory" : {
+				"someKey" : "A"
+			}
+		},
+		{
+			"kind" : "A1",
+			"country" : "US",
+			"cit_office" : "US",
+			"patent_id" : "2012196316",
+			"cited_phase" : "international-search-report",
+			"cit_id" : "na",
+			"catagory" : {
+				"someKey" : "A"
+			}
+		},
+		{
+			"kind" : "A1",
+			"country" : "WO",
+			"cit_office" : "US",
+			"patent_id" : "2012163363",
+			"cited_phase" : "international-search-report",
+			"cit_id" : "na",
+			"catagory" : {
+				"someKey" : "A"
+			}
+		}
+	],
+	"patent_id" : "2014121200",
+	"patent_id_country" : "WO2014121200",
+	"pub_date" : "20140807",
+	"pub_day" : "07",
+	"pub_month" : "08",
+	"publication_references" : [
+		{
+			"date" : 20140807,
+			"country" : "WO",
+			"kind" : "A1",
+			"patent_id" : "2014121200"
+		},
+		{
+			"date" : 20140807,
+			"country" : "na",
+			"kind" : "na",
+			"patent_id" : "WO2014121200"
+		}
+	],
+	"tag_v1" : [
+		{
+			"catagory" : "ivf"
+		}
+	],
+	"technologies" : [
+		"Time Lapse Technology"
+	],
+	"title" : "ABNORMAL SYNGAMY PHENOTYPES OBSERVED WITH TIME LAPSE IMAGING FOR EARLY IDENTIFICATION OF EMBRYOS WITH LOWER DEVELOPMENTAL POTENTIAL",
+	"titles" : [
+		{
+			"language" : "fr",
+			"title" : "PHÉNOTYPES ANORMAUX RÉSULTANT D'UNE SYNGAMIE, OBSERVÉS PAR IMAGERIE IMAGE PAR IMAGE ET PERMETTANT L'IDENTIFICATION PRÉCOCE D'EMBRYONS PRÉSENTANT UN FAIBLE POTENTIEL DE DÉVELOPPEMENT"
+		},
+		{
+			"language" : "en",
+			"title" : "ABNORMAL SYNGAMY PHENOTYPES OBSERVED WITH TIME LAPSE IMAGING FOR EARLY IDENTIFICATION OF EMBRYOS WITH LOWER DEVELOPMENTAL POTENTIAL"
+		}
+	],
+	"year" : [
+		"2014"
+	],
+	"year_str" : "2014"
+}
+{
+	"_id" : "548528aad8d80b0d77d4b128",
+	"abstract" : "Methods, compositions and kits for determining the likelihood of reaching the blastocyst stage for one or more embryos or pluripotent cells are provided. These methods, compositions and kits find use in identifying embryos and oocytes in vitro that are most useful in treating infertility in humans.",
+	"applicants" : [
+		{
+			"name" : "AUXOGYN INC [US]"
+		},
+		{
+			"name" : "AUXOGYN, INC"
+		}
+	],
+	"application_references" : [
+		{
+			"date" : "na",
+			"country" : "US",
+			"patent_id" : "201313907137"
+		},
+		{
+			"date" : "20130531",
+			"country" : "na",
+			"patent_id" : "US201313907137"
+		},
+		{
+			"date" : "na",
+			"country" : "nsa",
+			"patent_id" : "13907137"
+		}
+	],
+	"classifications_ipcr" : {
+		"classification-ipcr" : [
+			{
+				"text" : {
+					"someKey" : "G01N  33/    50            A I"
+				},
+				"@sequence" : "1"
+			},
+			{
+				"text" : {
+					"someKey" : "A61B  17/   435            A I"
+				},
+				"@sequence" : "2"
+			}
+		]
+	},
+	"countries" : [
+		"US"
+	],
+	"country" : "US",
+	"doc_country" : "US",
+	"family_id" : "49674077",
+	"flag" : "applicants",
+	"inventors" : [
+		{
+			"name" : "LOEWKE KEVIN E [US]"
+		},
+		{
+			"name" : "SURAJ VAISHALI [US]"
+		},
+		{
+			"name" : "LOEWKE KEVIN E,"
+		},
+		{
+			"name" : "SURAJ VAISHALI"
+		}
+	],
+	"ipc_classes" : [
+		"G01N33/50AI",
+		"A61B17/435AI"
+	],
+	"ipc_classifications" : [
+		{
+			"class" : "G01N33/50AI"
+		},
+		{
+			"class" : "A61B17/435AI"
+		}
+	],
+	"kind" : "A1",
+	"np_citations" : [
+		{
+			"catagory" : {
+				"someKey" : " "
+			},
+			"cit_id" : "na",
+			"cited_phase" : "national-search-report",
+			"cit_office" : "na",
+			"text" : {
+				"someKey" : "Wong et al. \"Non-invasive imaging of human embryos before\n        embryonic genome activation predicts development to the\n        blastocyst stage.\" Nature Biotechnolog (2010); 28:\n        Pgs.1115-1121"
+			}
+		},
+		{
+			"catagory" : {
+				"someKey" : " "
+			},
+			"cit_id" : "na",
+			"cited_phase" : "national-search-report",
+			"cit_office" : "na",
+			"text" : {
+				"someKey" : "Racowsky et al. \"Is there an advantage in scoring early\n        embryos on more than one day?.\" Human Reproduction (2009);\n        24, (9): Pgs. 2104-2113"
+			}
+		}
+	],
+	"p_citations" : [
+		{
+			"kind" : "A1",
+			"country" : "US",
+			"cit_office" : "na",
+			"patent_id" : "2011092762",
+			"cited_phase" : "national-search-report",
+			"cit_id" : "na",
+			"catagory" : {
+				"someKey" : " "
+			}
+		}
+	],
+	"patent_id" : "2014017717",
+	"patent_id_country" : "US2014017717",
+	"pub_date" : "20140116",
+	"pub_day" : "16",
+	"pub_month" : "01",
+	"publication_references" : [
+		{
+			"date" : 20140116,
+			"country" : "US",
+			"kind" : "A1",
+			"patent_id" : "2014017717"
+		},
+		{
+			"date" : 20140116,
+			"country" : "na",
+			"kind" : "na",
+			"patent_id" : "US2014017717"
+		}
+	],
+	"tag_v1" : [
+		{
+			"catagory" : "ivf"
+		}
+	],
+	"title" : "IN VITRO EMBRYO BLASTOCYST PREDICTION METHODS",
+	"titles" : [
+		{
+			"language" : "en",
+			"title" : "IN VITRO EMBRYO BLASTOCYST PREDICTION METHODS"
+		}
+	],
+	"year" : [
+		"2014"
+	],
+	"year_str" : "2014"
+}
+
